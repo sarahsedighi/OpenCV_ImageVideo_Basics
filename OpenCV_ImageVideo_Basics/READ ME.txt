@@ -1,0 +1,84 @@
+BGR color picker: https://wamingo.net/rgbbgr/
+
+"IMAGE"
+
+PART 1: read, write and display and image
+1-1: read an image
+1-2: display an image
+1-3: write (save) an image
+1-4: open one image on matplotlib
+1-5: open multiple images on matplotlib
+
+PART 2: drawing functions
+2-1: insert shapes
+2-1-1: draw line/ arrowed line/ rectangle/ circle
+2-1-2: filled rectangle and circle
+2-2: insert polyline
+2-3: put text
+2-4: generate an image
+
+PART 3: understanding an image
+3-1: size, resize
+3-2: transformation: shift and rotation
+3-3: get and set pixel values
+3-4: ROI (region of interes)
+3-5: copy and paste roi
+3-6: sum two images
+3-7: subtract two images
+3-8: mouse click position (x,y) - right click
+3-9: mouse click BGR channels - right click
+3-10: draw connecting points by right click
+3-11: tracking HSV values  
+
+PART 4: thresholding
+
+PART 5:image histogram
+
+PART 6: smoothing image and noise removal
+
+PART 7: edge detection: canny, sobel and laplacian filters
+
+PART 8: contours
+
+PART 9: morphological transformation
+9-1: erosion and dilation
+9-2: opening and closing
+
+PART 10: template matching
+
+PART 11: geometric shape detection
+
+PART 12: line detection
+
+PART 13: fourier transform
+
+PART 14: face and eye detection
+14-1: face detection using Haar Cascade classifier
+14-2: eye detection using Haar Cascade 
+14-3: face and eye detection
+
+PART 15: feature detection and description
+
+PART 16: feature matching and object detection
+
+
+
+"VIDEO"
+
+PART 1: display a video or camera
+
+PART 2: understanding a video
+
+PART 3: flipped
+
+PART 4: gray scale
+
+PART 5: write and create a video
+
+PART 6: color tracking, color filtering
+
+PART 7: add and sum video frames
+
+PART 8: motion detection and tracking
+
+
